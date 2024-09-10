@@ -1,0 +1,1 @@
+I'm Kornell G. Rancy III and welcome to my public log of projects, walkthroughs, and musings on my learning experience!
