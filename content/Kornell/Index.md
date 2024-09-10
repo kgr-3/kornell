@@ -4,8 +4,7 @@ longform:
   title: Kornell
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Introduction
+  scenes: []
   sceneTemplate: templates/log.md
   ignoredFiles: []
 ---
